@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background-color: white;
+    overflow-x: hidden;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 70vh;
+    width: 80%;
+    resize: none;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.apology {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.create_form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+label {
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+.box {
+    padding-bottom: 40px;
+}
+
+.text {
+    padding-bottom: 5px;
+}
