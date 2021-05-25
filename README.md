@@ -1,1 +1,1 @@
-Here you will find some of the projects I have completed within CS50 and CS50 Web programming courses.
+The following program prompts the user for a credit card number and then reports (via printf) whether it is a valid American Express, MasterCard, or Visa card number. The program implements Luhn's algorithm for the validation process. Written in C.
