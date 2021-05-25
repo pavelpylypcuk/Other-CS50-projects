@@ -1,1 +1,1 @@
-Here you will find some of the projects I have completed within CS50 and CS50 Web programming courses.
+A program that implements runoff voting (the two-round system) and simulates elections based on candidates and amount of voters provided by the user. Written in C.
