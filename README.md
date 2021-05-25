@@ -1,1 +1,1 @@
-Here you will find some of the projects I have completed within CS50 and CS50 Web programming courses.
+This is a trading web-application connected to a real-time stock API to give most updated stock prices and simulate trading on the stock market. Written in Python, Flask and SQLite.
